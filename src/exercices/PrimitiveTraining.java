@@ -24,7 +24,7 @@ public class PrimitiveTraining {
     }
 
     // TODO 5 : Create a method 'nothing', no result expected
-    public  void nothing(){
+        public  void nothing(){
 
     }
 }
